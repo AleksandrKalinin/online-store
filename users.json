@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "login": "JohnSmith",
+    "password": "98hq94t4",
+    "age": 34,
+    "isDeleted": false
+  },
+  {
+    "id": 2,
+    "login": "JoeDavids",
+    "password": "89u4h9",
+    "age": 90,
+    "isDeleted": false
+  },
+  {
+    "id": 3,
+    "login": "JohnDoe",
+    "password": "oiangoi",
+    "age": 90,
+    "isDeleted": true
+  },
+  {
+    "id": 4,
+    "login": "Yury",
+    "password": "ioj39u84j4",
+    "age": 45,
+    "isDeleted": false
+  },
+  {
+    "id": 5,
+    "login": "Aleksandr",
+    "password": "iojion",
+    "age": 38,
+    "isDeleted": true
+  },
+  {
+    "id": 6,
+    "login": "Vladimir",
+    "password": "geageaeg",
+    "age": 26,
+    "isDeleted": false
+  },
+  {
+    "id": 7,
+    "login": "Mike",
+    "password": "jjbornrb",
+    "age": 15,
+    "isDeleted": false
+  },
+  {
+    "id": 8,
+    "login": "Greg",
+    "password": "geageaeg",
+    "age": 32,
+    "isDeleted": false
+  },
+  {
+    "id": 9,
+    "login": "Mark",
+    "password": "oijoianofe",
+    "age": 35,
+    "isDeleted": false
+  },
+  {
+    "id": 10,
+    "login": "Jane",
+    "password": "90uj484g",
+    "age": 35,
+    "isDeleted": false
+  },
+  {
+    "id": 11,
+    "login": "JohnRichardson",
+    "password": "90apejuj484g",
+    "age": 35,
+    "isDeleted": false
+  },
+  {
+    "id": 12,
+    "login": "JohnStones",
+    "password": "12j484g",
+    "age": 31,
+    "isDeleted": false
+  },
+  {
+    "id": 13,
+    "login": "JohnFerguson",
+    "password": "12j484g9898y",
+    "age": 31,
+    "isDeleted": false
+  },
+  {
+    "id": "627e7780-9480-407e-bc03-16cbbc7a7849",
+    "login": "VladimirIvanov",
+    "password": "oanioge",
+    "age": 320,
+    "isDeleted": false
+  },
+  {
+    "id": "163dc795-1025-4765-85c2-13cf53c6506b",
+    "login": "VladimirIvanov",
+    "password": "oanioge",
+    "age": 320,
+    "isDeleted": false
+  },
+  {
+    "id": "24fab021-d97e-4126-b255-caa240edd14c",
+    "login": "VladimirIvanov",
+    "password": "oanioge",
+    "age": 20,
+    "isDeleted": false
+  },
+  {
+    "id": "9a5ec85f-b72a-449c-965d-929e9b6abb69",
+    "login": "VladimirIvanov",
+    "password": "oanioge",
+    "age": 20,
+    "isDeleted": false
+  }
+]
